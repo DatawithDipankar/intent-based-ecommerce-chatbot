@@ -1,0 +1,7 @@
+pandas~=2.3.3
+chromadb~=1.5.0
+groq~=1.0.0
+python-dotenv~=1.2.1
+streamlit~=1.54.0
+router~=0.1
+pathlib~=1.0.1
