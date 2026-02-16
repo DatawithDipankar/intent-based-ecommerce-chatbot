@@ -1,6 +1,7 @@
 # 💬 e-commerce chatbot (Gen AI RAG project using LLama3.3 and GROQ)
 
 Built an intent-driven e-commerce chatbot with a semantic routing architecture that intelligently dispatches queries to specialized pipelines (FAQ RAG, SQL generation, and conversational handling). Integrated real-time structured data retrieval and LLM-based response synthesis. Implemented response caching, query logging, and SQL safety validation to enhance performance, observability, and robustness. Designed the system with modular, production-oriented principles.
+
 Folder structure
 1. app: All the code for chatbot
 2. web-scraping: Code to scrap e-commerce website 
